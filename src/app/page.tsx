@@ -561,7 +561,7 @@ export default function Page() {
               >
                 <div className="absolute inset-0">
                   <img
-                    src="https://images.unsplash.com/photo-1528740561666-dc2479dc08ab?auto=format&fit=crop&w=1600&q=70"
+                    src="https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-08/1248536_747614_t_akhbar.jpg"
                     alt="Law books and gavel"
                     className="h-full w-full object-cover opacity-65"
                   />
