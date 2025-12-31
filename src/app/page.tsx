@@ -299,7 +299,7 @@ const testimonials = [
 const offices = [
   {
     city: "Karachi",
-    area: "Shahrah-e-Faisal (example)",
+    area: "Shahrah-e-Faisal",
     hours: "Mon–Sat • 10:00–18:00",
     img: "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?auto=format&fit=crop&w=1600&q=70",
   },
@@ -584,7 +584,7 @@ export default function Page() {
                         <MapPin className="mt-0.5 h-4 w-4" />
                         <div>
                           <div className="font-medium text-white">Karachi</div>
-                          <div className="text-xs text-white/60">Shahrah-e-Faisal (example)</div>
+                          <div className="text-xs text-white/60">Shahrah-e-Faisal </div>
                         </div>
                       </div>
                     </div>
