@@ -1216,6 +1216,7 @@ export default function Page() {
              rel="noopener noreferrer"
              >
              TREENTECHCO 
+             </div>
                 <div className="flex flex-wrap gap-3">
                   <a className="hover:text-white" href="#">
                     Privacy
