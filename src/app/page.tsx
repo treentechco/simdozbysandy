@@ -1209,14 +1209,7 @@ export default function Page() {
 
             <div className="lg:col-span-12">
               <div className="flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-xs text-white/60 sm:flex-row sm:items-center">
-                <div>© {new Date().getFullYear()} Simdozbysandy . Operated by{" "}
-             <a
-             href="https://treentech.co"
-             target="_blank"
-             rel="noopener noreferrer"
-             >
-             TREENTECHCO 
-             </div>
+                <div>© {new Date().getFullYear()} Simdozbysandy. All rights reserved.</div>
                 <div className="flex flex-wrap gap-3">
                   <a className="hover:text-white" href="#">
                     Privacy
